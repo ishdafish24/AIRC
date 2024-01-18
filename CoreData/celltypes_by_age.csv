@@ -1,0 +1,301 @@
+age_range,cell_type,count
+30-35,type II pneumocyte,1422
+30-35,elicited macrophage,1358
+30-35,alveolar macrophage,385
+30-35,alveolar type 2 fibroblast cell,201
+30-35,CD1c-positive myeloid dendritic cell,148
+30-35,endothelial cell of lymphatic vessel,76
+30-35,vein endothelial cell,36
+30-35,non-classical monocyte,29
+30-35,lung macrophage,27
+30-35,classical monocyte,15
+30-35,pulmonary artery endothelial cell,9
+30-35,bronchus fibroblast of lung,7
+30-35,epithelial cell of lower respiratory tract,7
+30-35,ciliated columnar cell of tracheobronchial tree,6
+30-35,type I pneumocyte,5
+30-35,conventional dendritic cell,5
+30-35,dendritic cell,4
+30-35,epithelial cell of alveolus of lung,4
+30-35,tracheobronchial smooth muscle cell,4
+30-35,alveolar type 1 fibroblast cell,4
+30-35,respiratory basal cell,3
+30-35,"CD4-positive, alpha-beta T cell",2
+30-35,hematopoietic stem cell,2
+30-35,plasma cell,2
+30-35,B cell,1
+30-35,club cell,1
+30-35,T cell,1
+30-35,mesothelial cell,1
+30-35,plasmacytoid dendritic cell,1
+30-35,capillary endothelial cell,1
+30-35,nasal mucosa goblet cell,1
+30-35,multi-ciliated epithelial cell,1
+30-35,fibroblast,1
+30-35,natural killer cell,1
+30-35,"CD8-positive, alpha-beta T cell",0
+30-35,lung neuroendocrine cell,0
+30-35,tracheobronchial goblet cell,0
+30-35,tracheobronchial serous cell,0
+30-35,lung pericyte,0
+30-35,ionocyte,0
+30-35,brush cell of trachebronchial tree,0
+30-35,acinar cell,0
+30-35,respiratory hillock cell,0
+30-35,stromal cell,0
+30-35,mucus secreting cell,0
+30-35,serous secreting cell,0
+30-35,smooth muscle cell,0
+30-35,myofibroblast cell,0
+30-35,mast cell,0
+30-35,bronchial goblet cell,0
+40-45,natural killer cell,4000
+40-45,type II pneumocyte,2288
+40-45,"CD4-positive, alpha-beta T cell",1959
+40-45,alveolar macrophage,1928
+40-45,classical monocyte,1795
+40-45,CD1c-positive myeloid dendritic cell,1011
+40-45,"CD8-positive, alpha-beta T cell",848
+40-45,elicited macrophage,780
+40-45,B cell,610
+40-45,ciliated columnar cell of tracheobronchial tree,376
+40-45,non-classical monocyte,355
+40-45,respiratory basal cell,340
+40-45,alveolar type 2 fibroblast cell,247
+40-45,lung macrophage,219
+40-45,fibroblast,170
+40-45,nasal mucosa goblet cell,109
+40-45,vein endothelial cell,97
+40-45,type I pneumocyte,90
+40-45,capillary endothelial cell,77
+40-45,club cell,76
+40-45,plasma cell,72
+40-45,tracheobronchial smooth muscle cell,65
+40-45,T cell,34
+40-45,hematopoietic stem cell,29
+40-45,mast cell,26
+40-45,conventional dendritic cell,22
+40-45,mesothelial cell,22
+40-45,dendritic cell,18
+40-45,bronchus fibroblast of lung,17
+40-45,endothelial cell of lymphatic vessel,17
+40-45,alveolar type 1 fibroblast cell,17
+40-45,pulmonary artery endothelial cell,11
+40-45,epithelial cell of lower respiratory tract,11
+40-45,epithelial cell of alveolus of lung,10
+40-45,plasmacytoid dendritic cell,8
+40-45,myofibroblast cell,6
+40-45,multi-ciliated epithelial cell,6
+40-45,mucus secreting cell,4
+40-45,acinar cell,4
+40-45,tracheobronchial serous cell,4
+40-45,respiratory hillock cell,3
+40-45,smooth muscle cell,2
+40-45,stromal cell,2
+40-45,bronchial goblet cell,1
+40-45,serous secreting cell,0
+40-45,brush cell of trachebronchial tree,0
+40-45,lung neuroendocrine cell,0
+40-45,tracheobronchial goblet cell,0
+40-45,lung pericyte,0
+40-45,ionocyte,0
+50-55,respiratory basal cell,6579
+50-55,"CD8-positive, alpha-beta T cell",6556
+50-55,club cell,3728
+50-55,multi-ciliated epithelial cell,3031
+50-55,"CD4-positive, alpha-beta T cell",3005
+50-55,ciliated columnar cell of tracheobronchial tree,2609
+50-55,nasal mucosa goblet cell,2526
+50-55,CD1c-positive myeloid dendritic cell,1330
+50-55,classical monocyte,882
+50-55,vein endothelial cell,751
+50-55,alveolar macrophage,560
+50-55,type II pneumocyte,343
+50-55,mast cell,334
+50-55,bronchial goblet cell,321
+50-55,natural killer cell,315
+50-55,elicited macrophage,310
+50-55,B cell,241
+50-55,bronchus fibroblast of lung,201
+50-55,plasma cell,174
+50-55,tracheobronchial smooth muscle cell,164
+50-55,alveolar type 2 fibroblast cell,160
+50-55,non-classical monocyte,155
+50-55,acinar cell,111
+50-55,pulmonary artery endothelial cell,110
+50-55,endothelial cell of lymphatic vessel,86
+50-55,T cell,75
+50-55,plasmacytoid dendritic cell,69
+50-55,ionocyte,54
+50-55,tracheobronchial serous cell,47
+50-55,capillary endothelial cell,44
+50-55,lung macrophage,43
+50-55,conventional dendritic cell,38
+50-55,alveolar type 1 fibroblast cell,34
+50-55,mucus secreting cell,30
+50-55,dendritic cell,24
+50-55,epithelial cell of lower respiratory tract,16
+50-55,respiratory hillock cell,11
+50-55,type I pneumocyte,10
+50-55,lung neuroendocrine cell,6
+50-55,myofibroblast cell,6
+50-55,smooth muscle cell,5
+50-55,tracheobronchial goblet cell,5
+50-55,mesothelial cell,3
+50-55,stromal cell,3
+50-55,epithelial cell of alveolus of lung,2
+50-55,brush cell of trachebronchial tree,2
+50-55,serous secreting cell,1
+50-55,fibroblast,1
+50-55,hematopoietic stem cell,1
+50-55,lung pericyte,1
+55-60,respiratory basal cell,10051
+55-60,"CD8-positive, alpha-beta T cell",5706
+55-60,ciliated columnar cell of tracheobronchial tree,3928
+55-60,"CD4-positive, alpha-beta T cell",2532
+55-60,club cell,2325
+55-60,nasal mucosa goblet cell,2200
+55-60,vein endothelial cell,1743
+55-60,elicited macrophage,1552
+55-60,alveolar type 2 fibroblast cell,1433
+55-60,CD1c-positive myeloid dendritic cell,1020
+55-60,B cell,965
+55-60,multi-ciliated epithelial cell,797
+55-60,bronchus fibroblast of lung,666
+55-60,alveolar macrophage,585
+55-60,classical monocyte,530
+55-60,type II pneumocyte,465
+55-60,mast cell,368
+55-60,tracheobronchial smooth muscle cell,335
+55-60,plasma cell,287
+55-60,lung macrophage,243
+55-60,natural killer cell,225
+55-60,alveolar type 1 fibroblast cell,206
+55-60,capillary endothelial cell,188
+55-60,pulmonary artery endothelial cell,186
+55-60,acinar cell,96
+55-60,non-classical monocyte,85
+55-60,endothelial cell of lymphatic vessel,84
+55-60,ionocyte,77
+55-60,tracheobronchial serous cell,59
+55-60,smooth muscle cell,37
+55-60,mucus secreting cell,30
+55-60,plasmacytoid dendritic cell,25
+55-60,conventional dendritic cell,22
+55-60,stromal cell,21
+55-60,lung pericyte,20
+55-60,respiratory hillock cell,18
+55-60,myofibroblast cell,15
+55-60,dendritic cell,13
+55-60,brush cell of trachebronchial tree,11
+55-60,T cell,9
+55-60,epithelial cell of lower respiratory tract,9
+55-60,lung neuroendocrine cell,6
+55-60,bronchial goblet cell,5
+55-60,type I pneumocyte,5
+55-60,mesothelial cell,5
+55-60,fibroblast,3
+55-60,serous secreting cell,2
+55-60,tracheobronchial goblet cell,2
+55-60,epithelial cell of alveolus of lung,1
+55-60,hematopoietic stem cell,0
+60-65,respiratory basal cell,1967
+60-65,ciliated columnar cell of tracheobronchial tree,1489
+60-65,classical monocyte,1192
+60-65,"CD8-positive, alpha-beta T cell",835
+60-65,club cell,406
+60-65,"CD4-positive, alpha-beta T cell",322
+60-65,CD1c-positive myeloid dendritic cell,282
+60-65,non-classical monocyte,249
+60-65,vein endothelial cell,134
+60-65,natural killer cell,90
+60-65,type II pneumocyte,89
+60-65,mast cell,83
+60-65,nasal mucosa goblet cell,68
+60-65,alveolar type 2 fibroblast cell,57
+60-65,B cell,50
+60-65,epithelial cell of lower respiratory tract,38
+60-65,bronchus fibroblast of lung,28
+60-65,multi-ciliated epithelial cell,27
+60-65,acinar cell,23
+60-65,elicited macrophage,20
+60-65,lung macrophage,19
+60-65,alveolar macrophage,16
+60-65,type I pneumocyte,14
+60-65,pulmonary artery endothelial cell,14
+60-65,conventional dendritic cell,12
+60-65,plasma cell,9
+60-65,tracheobronchial smooth muscle cell,8
+60-65,ionocyte,7
+60-65,alveolar type 1 fibroblast cell,7
+60-65,capillary endothelial cell,6
+60-65,dendritic cell,5
+60-65,epithelial cell of alveolus of lung,5
+60-65,plasmacytoid dendritic cell,4
+60-65,smooth muscle cell,3
+60-65,tracheobronchial serous cell,3
+60-65,bronchial goblet cell,3
+60-65,T cell,3
+60-65,tracheobronchial goblet cell,2
+60-65,mucus secreting cell,2
+60-65,myofibroblast cell,1
+60-65,endothelial cell of lymphatic vessel,1
+60-65,serous secreting cell,0
+60-65,respiratory hillock cell,0
+60-65,lung neuroendocrine cell,0
+60-65,lung pericyte,0
+60-65,brush cell of trachebronchial tree,0
+60-65,stromal cell,0
+60-65,mesothelial cell,0
+60-65,fibroblast,0
+60-65,hematopoietic stem cell,0
+65-70,"CD8-positive, alpha-beta T cell",3677
+65-70,natural killer cell,2720
+65-70,mast cell,2185
+65-70,"CD4-positive, alpha-beta T cell",1422
+65-70,type II pneumocyte,1227
+65-70,classical monocyte,862
+65-70,alveolar type 1 fibroblast cell,531
+65-70,alveolar type 2 fibroblast cell,271
+65-70,elicited macrophage,264
+65-70,CD1c-positive myeloid dendritic cell,219
+65-70,B cell,210
+65-70,vein endothelial cell,202
+65-70,smooth muscle cell,122
+65-70,pulmonary artery endothelial cell,109
+65-70,alveolar macrophage,95
+65-70,endothelial cell of lymphatic vessel,95
+65-70,tracheobronchial smooth muscle cell,74
+65-70,non-classical monocyte,59
+65-70,dendritic cell,58
+65-70,conventional dendritic cell,54
+65-70,myofibroblast cell,53
+65-70,epithelial cell of lower respiratory tract,40
+65-70,capillary endothelial cell,38
+65-70,plasma cell,31
+65-70,ciliated columnar cell of tracheobronchial tree,25
+65-70,stromal cell,23
+65-70,lung macrophage,18
+65-70,bronchus fibroblast of lung,10
+65-70,plasmacytoid dendritic cell,9
+65-70,respiratory basal cell,8
+65-70,T cell,4
+65-70,hematopoietic stem cell,3
+65-70,fibroblast,2
+65-70,lung pericyte,2
+65-70,club cell,2
+65-70,epithelial cell of alveolus of lung,2
+65-70,type I pneumocyte,2
+65-70,ionocyte,0
+65-70,multi-ciliated epithelial cell,0
+65-70,nasal mucosa goblet cell,0
+65-70,tracheobronchial serous cell,0
+65-70,lung neuroendocrine cell,0
+65-70,bronchial goblet cell,0
+65-70,tracheobronchial goblet cell,0
+65-70,brush cell of trachebronchial tree,0
+65-70,acinar cell,0
+65-70,mucus secreting cell,0
+65-70,serous secreting cell,0
+65-70,mesothelial cell,0
+65-70,respiratory hillock cell,0

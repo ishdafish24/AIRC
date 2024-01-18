@@ -1,0 +1,851 @@
+cell_type,ann_level_5,0
+hematopoietic stem cell,AT0,0
+hematopoietic stem cell,Alveolar Mph CCL3+,0
+hematopoietic stem cell,Alveolar Mph MT-positive,0
+hematopoietic stem cell,Alveolar Mph proliferating,0
+hematopoietic stem cell,Club (nasal),0
+hematopoietic stem cell,Club (non-nasal),0
+hematopoietic stem cell,Goblet (bronchial),0
+hematopoietic stem cell,Goblet (nasal),0
+hematopoietic stem cell,Goblet (subsegmental),0
+hematopoietic stem cell,Interstitial Mph perivascular,0
+hematopoietic stem cell,Monocyte-derived Mph,0
+hematopoietic stem cell,Multiciliated (nasal),0
+hematopoietic stem cell,Multiciliated (non-nasal),0
+hematopoietic stem cell,None,60
+hematopoietic stem cell,SMG serous (bronchial),0
+hematopoietic stem cell,SMG serous (nasal),0
+hematopoietic stem cell,pre-TB secretory,0
+fibroblast,AT0,0
+fibroblast,Alveolar Mph CCL3+,0
+fibroblast,Alveolar Mph MT-positive,0
+fibroblast,Alveolar Mph proliferating,0
+fibroblast,Club (nasal),0
+fibroblast,Club (non-nasal),0
+fibroblast,Goblet (bronchial),0
+fibroblast,Goblet (nasal),0
+fibroblast,Goblet (subsegmental),0
+fibroblast,Interstitial Mph perivascular,0
+fibroblast,Monocyte-derived Mph,0
+fibroblast,Multiciliated (nasal),0
+fibroblast,Multiciliated (non-nasal),0
+fibroblast,None,276
+fibroblast,SMG serous (bronchial),0
+fibroblast,SMG serous (nasal),0
+fibroblast,pre-TB secretory,0
+mesothelial cell,AT0,0
+mesothelial cell,Alveolar Mph CCL3+,0
+mesothelial cell,Alveolar Mph MT-positive,0
+mesothelial cell,Alveolar Mph proliferating,0
+mesothelial cell,Club (nasal),0
+mesothelial cell,Club (non-nasal),0
+mesothelial cell,Goblet (bronchial),0
+mesothelial cell,Goblet (nasal),0
+mesothelial cell,Goblet (subsegmental),0
+mesothelial cell,Interstitial Mph perivascular,0
+mesothelial cell,Monocyte-derived Mph,0
+mesothelial cell,Multiciliated (nasal),0
+mesothelial cell,Multiciliated (non-nasal),0
+mesothelial cell,None,230
+mesothelial cell,SMG serous (bronchial),0
+mesothelial cell,SMG serous (nasal),0
+mesothelial cell,pre-TB secretory,0
+T cell,AT0,0
+T cell,Alveolar Mph CCL3+,0
+T cell,Alveolar Mph MT-positive,0
+T cell,Alveolar Mph proliferating,0
+T cell,Club (nasal),0
+T cell,Club (non-nasal),0
+T cell,Goblet (bronchial),0
+T cell,Goblet (nasal),0
+T cell,Goblet (subsegmental),0
+T cell,Interstitial Mph perivascular,0
+T cell,Monocyte-derived Mph,0
+T cell,Multiciliated (nasal),0
+T cell,Multiciliated (non-nasal),0
+T cell,None,500
+T cell,SMG serous (bronchial),0
+T cell,SMG serous (nasal),0
+T cell,pre-TB secretory,0
+mast cell,AT0,0
+mast cell,Alveolar Mph CCL3+,0
+mast cell,Alveolar Mph MT-positive,0
+mast cell,Alveolar Mph proliferating,0
+mast cell,Club (nasal),0
+mast cell,Club (non-nasal),0
+mast cell,Goblet (bronchial),0
+mast cell,Goblet (nasal),0
+mast cell,Goblet (subsegmental),0
+mast cell,Interstitial Mph perivascular,0
+mast cell,Monocyte-derived Mph,0
+mast cell,Multiciliated (nasal),0
+mast cell,Multiciliated (non-nasal),0
+mast cell,None,6623
+mast cell,SMG serous (bronchial),0
+mast cell,SMG serous (nasal),0
+mast cell,pre-TB secretory,0
+club cell,AT0,0
+club cell,Alveolar Mph CCL3+,0
+club cell,Alveolar Mph MT-positive,0
+club cell,Alveolar Mph proliferating,0
+club cell,Club (nasal),26068
+club cell,Club (non-nasal),9955
+club cell,Goblet (bronchial),0
+club cell,Goblet (nasal),0
+club cell,Goblet (subsegmental),0
+club cell,Interstitial Mph perivascular,0
+club cell,Monocyte-derived Mph,0
+club cell,Multiciliated (nasal),0
+club cell,Multiciliated (non-nasal),0
+club cell,None,0
+club cell,SMG serous (bronchial),0
+club cell,SMG serous (nasal),0
+club cell,pre-TB secretory,0
+myofibroblast cell,AT0,0
+myofibroblast cell,Alveolar Mph CCL3+,0
+myofibroblast cell,Alveolar Mph MT-positive,0
+myofibroblast cell,Alveolar Mph proliferating,0
+myofibroblast cell,Club (nasal),0
+myofibroblast cell,Club (non-nasal),0
+myofibroblast cell,Goblet (bronchial),0
+myofibroblast cell,Goblet (nasal),0
+myofibroblast cell,Goblet (subsegmental),0
+myofibroblast cell,Interstitial Mph perivascular,0
+myofibroblast cell,Monocyte-derived Mph,0
+myofibroblast cell,Multiciliated (nasal),0
+myofibroblast cell,Multiciliated (non-nasal),0
+myofibroblast cell,None,716
+myofibroblast cell,SMG serous (bronchial),0
+myofibroblast cell,SMG serous (nasal),0
+myofibroblast cell,pre-TB secretory,0
+smooth muscle cell,AT0,0
+smooth muscle cell,Alveolar Mph CCL3+,0
+smooth muscle cell,Alveolar Mph MT-positive,0
+smooth muscle cell,Alveolar Mph proliferating,0
+smooth muscle cell,Club (nasal),0
+smooth muscle cell,Club (non-nasal),0
+smooth muscle cell,Goblet (bronchial),0
+smooth muscle cell,Goblet (nasal),0
+smooth muscle cell,Goblet (subsegmental),0
+smooth muscle cell,Interstitial Mph perivascular,0
+smooth muscle cell,Monocyte-derived Mph,0
+smooth muscle cell,Multiciliated (nasal),0
+smooth muscle cell,Multiciliated (non-nasal),0
+smooth muscle cell,None,556
+smooth muscle cell,SMG serous (bronchial),0
+smooth muscle cell,SMG serous (nasal),0
+smooth muscle cell,pre-TB secretory,0
+B cell,AT0,0
+B cell,Alveolar Mph CCL3+,0
+B cell,Alveolar Mph MT-positive,0
+B cell,Alveolar Mph proliferating,0
+B cell,Club (nasal),0
+B cell,Club (non-nasal),0
+B cell,Goblet (bronchial),0
+B cell,Goblet (nasal),0
+B cell,Goblet (subsegmental),0
+B cell,Interstitial Mph perivascular,0
+B cell,Monocyte-derived Mph,0
+B cell,Multiciliated (nasal),0
+B cell,Multiciliated (non-nasal),0
+B cell,None,4511
+B cell,SMG serous (bronchial),0
+B cell,SMG serous (nasal),0
+B cell,pre-TB secretory,0
+serous secreting cell,AT0,0
+serous secreting cell,Alveolar Mph CCL3+,0
+serous secreting cell,Alveolar Mph MT-positive,0
+serous secreting cell,Alveolar Mph proliferating,0
+serous secreting cell,Club (nasal),0
+serous secreting cell,Club (non-nasal),0
+serous secreting cell,Goblet (bronchial),0
+serous secreting cell,Goblet (nasal),0
+serous secreting cell,Goblet (subsegmental),0
+serous secreting cell,Interstitial Mph perivascular,0
+serous secreting cell,Monocyte-derived Mph,0
+serous secreting cell,Multiciliated (nasal),0
+serous secreting cell,Multiciliated (non-nasal),0
+serous secreting cell,None,0
+serous secreting cell,SMG serous (bronchial),0
+serous secreting cell,SMG serous (nasal),1472
+serous secreting cell,pre-TB secretory,0
+mucus secreting cell,AT0,0
+mucus secreting cell,Alveolar Mph CCL3+,0
+mucus secreting cell,Alveolar Mph MT-positive,0
+mucus secreting cell,Alveolar Mph proliferating,0
+mucus secreting cell,Club (nasal),0
+mucus secreting cell,Club (non-nasal),0
+mucus secreting cell,Goblet (bronchial),0
+mucus secreting cell,Goblet (nasal),0
+mucus secreting cell,Goblet (subsegmental),0
+mucus secreting cell,Interstitial Mph perivascular,0
+mucus secreting cell,Monocyte-derived Mph,0
+mucus secreting cell,Multiciliated (nasal),0
+mucus secreting cell,Multiciliated (non-nasal),0
+mucus secreting cell,None,537
+mucus secreting cell,SMG serous (bronchial),0
+mucus secreting cell,SMG serous (nasal),0
+mucus secreting cell,pre-TB secretory,0
+dendritic cell,AT0,0
+dendritic cell,Alveolar Mph CCL3+,0
+dendritic cell,Alveolar Mph MT-positive,0
+dendritic cell,Alveolar Mph proliferating,0
+dendritic cell,Club (nasal),0
+dendritic cell,Club (non-nasal),0
+dendritic cell,Goblet (bronchial),0
+dendritic cell,Goblet (nasal),0
+dendritic cell,Goblet (subsegmental),0
+dendritic cell,Interstitial Mph perivascular,0
+dendritic cell,Monocyte-derived Mph,0
+dendritic cell,Multiciliated (nasal),0
+dendritic cell,Multiciliated (non-nasal),0
+dendritic cell,None,312
+dendritic cell,SMG serous (bronchial),0
+dendritic cell,SMG serous (nasal),0
+dendritic cell,pre-TB secretory,0
+stromal cell,AT0,0
+stromal cell,Alveolar Mph CCL3+,0
+stromal cell,Alveolar Mph MT-positive,0
+stromal cell,Alveolar Mph proliferating,0
+stromal cell,Club (nasal),0
+stromal cell,Club (non-nasal),0
+stromal cell,Goblet (bronchial),0
+stromal cell,Goblet (nasal),0
+stromal cell,Goblet (subsegmental),0
+stromal cell,Interstitial Mph perivascular,0
+stromal cell,Monocyte-derived Mph,0
+stromal cell,Multiciliated (nasal),0
+stromal cell,Multiciliated (non-nasal),0
+stromal cell,None,335
+stromal cell,SMG serous (bronchial),0
+stromal cell,SMG serous (nasal),0
+stromal cell,pre-TB secretory,0
+alveolar macrophage,AT0,0
+alveolar macrophage,Alveolar Mph CCL3+,8065
+alveolar macrophage,Alveolar Mph MT-positive,1203
+alveolar macrophage,Alveolar Mph proliferating,1061
+alveolar macrophage,Club (nasal),0
+alveolar macrophage,Club (non-nasal),0
+alveolar macrophage,Goblet (bronchial),0
+alveolar macrophage,Goblet (nasal),0
+alveolar macrophage,Goblet (subsegmental),0
+alveolar macrophage,Interstitial Mph perivascular,0
+alveolar macrophage,Monocyte-derived Mph,0
+alveolar macrophage,Multiciliated (nasal),0
+alveolar macrophage,Multiciliated (non-nasal),0
+alveolar macrophage,None,68487
+alveolar macrophage,SMG serous (bronchial),0
+alveolar macrophage,SMG serous (nasal),0
+alveolar macrophage,pre-TB secretory,0
+acinar cell,AT0,0
+acinar cell,Alveolar Mph CCL3+,0
+acinar cell,Alveolar Mph MT-positive,0
+acinar cell,Alveolar Mph proliferating,0
+acinar cell,Club (nasal),0
+acinar cell,Club (non-nasal),0
+acinar cell,Goblet (bronchial),0
+acinar cell,Goblet (nasal),0
+acinar cell,Goblet (subsegmental),0
+acinar cell,Interstitial Mph perivascular,0
+acinar cell,Monocyte-derived Mph,0
+acinar cell,Multiciliated (nasal),0
+acinar cell,Multiciliated (non-nasal),0
+acinar cell,None,1274
+acinar cell,SMG serous (bronchial),0
+acinar cell,SMG serous (nasal),0
+acinar cell,pre-TB secretory,0
+natural killer cell,AT0,0
+natural killer cell,Alveolar Mph CCL3+,0
+natural killer cell,Alveolar Mph MT-positive,0
+natural killer cell,Alveolar Mph proliferating,0
+natural killer cell,Club (nasal),0
+natural killer cell,Club (non-nasal),0
+natural killer cell,Goblet (bronchial),0
+natural killer cell,Goblet (nasal),0
+natural killer cell,Goblet (subsegmental),0
+natural killer cell,Interstitial Mph perivascular,0
+natural killer cell,Monocyte-derived Mph,0
+natural killer cell,Multiciliated (nasal),0
+natural killer cell,Multiciliated (non-nasal),0
+natural killer cell,None,16978
+natural killer cell,SMG serous (bronchial),0
+natural killer cell,SMG serous (nasal),0
+natural killer cell,pre-TB secretory,0
+"CD4-positive, alpha-beta T cell",AT0,0
+"CD4-positive, alpha-beta T cell",Alveolar Mph CCL3+,0
+"CD4-positive, alpha-beta T cell",Alveolar Mph MT-positive,0
+"CD4-positive, alpha-beta T cell",Alveolar Mph proliferating,0
+"CD4-positive, alpha-beta T cell",Club (nasal),0
+"CD4-positive, alpha-beta T cell",Club (non-nasal),0
+"CD4-positive, alpha-beta T cell",Goblet (bronchial),0
+"CD4-positive, alpha-beta T cell",Goblet (nasal),0
+"CD4-positive, alpha-beta T cell",Goblet (subsegmental),0
+"CD4-positive, alpha-beta T cell",Interstitial Mph perivascular,0
+"CD4-positive, alpha-beta T cell",Monocyte-derived Mph,0
+"CD4-positive, alpha-beta T cell",Multiciliated (nasal),0
+"CD4-positive, alpha-beta T cell",Multiciliated (non-nasal),0
+"CD4-positive, alpha-beta T cell",None,21285
+"CD4-positive, alpha-beta T cell",SMG serous (bronchial),0
+"CD4-positive, alpha-beta T cell",SMG serous (nasal),0
+"CD4-positive, alpha-beta T cell",pre-TB secretory,0
+"CD8-positive, alpha-beta T cell",AT0,0
+"CD8-positive, alpha-beta T cell",Alveolar Mph CCL3+,0
+"CD8-positive, alpha-beta T cell",Alveolar Mph MT-positive,0
+"CD8-positive, alpha-beta T cell",Alveolar Mph proliferating,0
+"CD8-positive, alpha-beta T cell",Club (nasal),0
+"CD8-positive, alpha-beta T cell",Club (non-nasal),0
+"CD8-positive, alpha-beta T cell",Goblet (bronchial),0
+"CD8-positive, alpha-beta T cell",Goblet (nasal),0
+"CD8-positive, alpha-beta T cell",Goblet (subsegmental),0
+"CD8-positive, alpha-beta T cell",Interstitial Mph perivascular,0
+"CD8-positive, alpha-beta T cell",Monocyte-derived Mph,0
+"CD8-positive, alpha-beta T cell",Multiciliated (nasal),0
+"CD8-positive, alpha-beta T cell",Multiciliated (non-nasal),0
+"CD8-positive, alpha-beta T cell",None,29074
+"CD8-positive, alpha-beta T cell",SMG serous (bronchial),0
+"CD8-positive, alpha-beta T cell",SMG serous (nasal),0
+"CD8-positive, alpha-beta T cell",pre-TB secretory,0
+plasmacytoid dendritic cell,AT0,0
+plasmacytoid dendritic cell,Alveolar Mph CCL3+,0
+plasmacytoid dendritic cell,Alveolar Mph MT-positive,0
+plasmacytoid dendritic cell,Alveolar Mph proliferating,0
+plasmacytoid dendritic cell,Club (nasal),0
+plasmacytoid dendritic cell,Club (non-nasal),0
+plasmacytoid dendritic cell,Goblet (bronchial),0
+plasmacytoid dendritic cell,Goblet (nasal),0
+plasmacytoid dendritic cell,Goblet (subsegmental),0
+plasmacytoid dendritic cell,Interstitial Mph perivascular,0
+plasmacytoid dendritic cell,Monocyte-derived Mph,0
+plasmacytoid dendritic cell,Multiciliated (nasal),0
+plasmacytoid dendritic cell,Multiciliated (non-nasal),0
+plasmacytoid dendritic cell,None,552
+plasmacytoid dendritic cell,SMG serous (bronchial),0
+plasmacytoid dendritic cell,SMG serous (nasal),0
+plasmacytoid dendritic cell,pre-TB secretory,0
+plasma cell,AT0,0
+plasma cell,Alveolar Mph CCL3+,0
+plasma cell,Alveolar Mph MT-positive,0
+plasma cell,Alveolar Mph proliferating,0
+plasma cell,Club (nasal),0
+plasma cell,Club (non-nasal),0
+plasma cell,Goblet (bronchial),0
+plasma cell,Goblet (nasal),0
+plasma cell,Goblet (subsegmental),0
+plasma cell,Interstitial Mph perivascular,0
+plasma cell,Monocyte-derived Mph,0
+plasma cell,Multiciliated (nasal),0
+plasma cell,Multiciliated (non-nasal),0
+plasma cell,None,1773
+plasma cell,SMG serous (bronchial),0
+plasma cell,SMG serous (nasal),0
+plasma cell,pre-TB secretory,0
+classical monocyte,AT0,0
+classical monocyte,Alveolar Mph CCL3+,0
+classical monocyte,Alveolar Mph MT-positive,0
+classical monocyte,Alveolar Mph proliferating,0
+classical monocyte,Club (nasal),0
+classical monocyte,Club (non-nasal),0
+classical monocyte,Goblet (bronchial),0
+classical monocyte,Goblet (nasal),0
+classical monocyte,Goblet (subsegmental),0
+classical monocyte,Interstitial Mph perivascular,0
+classical monocyte,Monocyte-derived Mph,0
+classical monocyte,Multiciliated (nasal),0
+classical monocyte,Multiciliated (non-nasal),0
+classical monocyte,None,17695
+classical monocyte,SMG serous (bronchial),0
+classical monocyte,SMG serous (nasal),0
+classical monocyte,pre-TB secretory,0
+elicited macrophage,AT0,0
+elicited macrophage,Alveolar Mph CCL3+,0
+elicited macrophage,Alveolar Mph MT-positive,0
+elicited macrophage,Alveolar Mph proliferating,0
+elicited macrophage,Club (nasal),0
+elicited macrophage,Club (non-nasal),0
+elicited macrophage,Goblet (bronchial),0
+elicited macrophage,Goblet (nasal),0
+elicited macrophage,Goblet (subsegmental),0
+elicited macrophage,Interstitial Mph perivascular,0
+elicited macrophage,Monocyte-derived Mph,28223
+elicited macrophage,Multiciliated (nasal),0
+elicited macrophage,Multiciliated (non-nasal),0
+elicited macrophage,None,0
+elicited macrophage,SMG serous (bronchial),0
+elicited macrophage,SMG serous (nasal),0
+elicited macrophage,pre-TB secretory,0
+non-classical monocyte,AT0,0
+non-classical monocyte,Alveolar Mph CCL3+,0
+non-classical monocyte,Alveolar Mph MT-positive,0
+non-classical monocyte,Alveolar Mph proliferating,0
+non-classical monocyte,Club (nasal),0
+non-classical monocyte,Club (non-nasal),0
+non-classical monocyte,Goblet (bronchial),0
+non-classical monocyte,Goblet (nasal),0
+non-classical monocyte,Goblet (subsegmental),0
+non-classical monocyte,Interstitial Mph perivascular,0
+non-classical monocyte,Monocyte-derived Mph,0
+non-classical monocyte,Multiciliated (nasal),0
+non-classical monocyte,Multiciliated (non-nasal),0
+non-classical monocyte,None,8834
+non-classical monocyte,SMG serous (bronchial),0
+non-classical monocyte,SMG serous (nasal),0
+non-classical monocyte,pre-TB secretory,0
+conventional dendritic cell,AT0,0
+conventional dendritic cell,Alveolar Mph CCL3+,0
+conventional dendritic cell,Alveolar Mph MT-positive,0
+conventional dendritic cell,Alveolar Mph proliferating,0
+conventional dendritic cell,Club (nasal),0
+conventional dendritic cell,Club (non-nasal),0
+conventional dendritic cell,Goblet (bronchial),0
+conventional dendritic cell,Goblet (nasal),0
+conventional dendritic cell,Goblet (subsegmental),0
+conventional dendritic cell,Interstitial Mph perivascular,0
+conventional dendritic cell,Monocyte-derived Mph,0
+conventional dendritic cell,Multiciliated (nasal),0
+conventional dendritic cell,Multiciliated (non-nasal),0
+conventional dendritic cell,None,322
+conventional dendritic cell,SMG serous (bronchial),0
+conventional dendritic cell,SMG serous (nasal),0
+conventional dendritic cell,pre-TB secretory,0
+type I pneumocyte,AT0,0
+type I pneumocyte,Alveolar Mph CCL3+,0
+type I pneumocyte,Alveolar Mph MT-positive,0
+type I pneumocyte,Alveolar Mph proliferating,0
+type I pneumocyte,Club (nasal),0
+type I pneumocyte,Club (non-nasal),0
+type I pneumocyte,Goblet (bronchial),0
+type I pneumocyte,Goblet (nasal),0
+type I pneumocyte,Goblet (subsegmental),0
+type I pneumocyte,Interstitial Mph perivascular,0
+type I pneumocyte,Monocyte-derived Mph,0
+type I pneumocyte,Multiciliated (nasal),0
+type I pneumocyte,Multiciliated (non-nasal),0
+type I pneumocyte,None,7937
+type I pneumocyte,SMG serous (bronchial),0
+type I pneumocyte,SMG serous (nasal),0
+type I pneumocyte,pre-TB secretory,0
+type II pneumocyte,AT0,0
+type II pneumocyte,Alveolar Mph CCL3+,0
+type II pneumocyte,Alveolar Mph MT-positive,0
+type II pneumocyte,Alveolar Mph proliferating,0
+type II pneumocyte,Club (nasal),0
+type II pneumocyte,Club (non-nasal),0
+type II pneumocyte,Goblet (bronchial),0
+type II pneumocyte,Goblet (nasal),0
+type II pneumocyte,Goblet (subsegmental),0
+type II pneumocyte,Interstitial Mph perivascular,0
+type II pneumocyte,Monocyte-derived Mph,0
+type II pneumocyte,Multiciliated (nasal),0
+type II pneumocyte,Multiciliated (non-nasal),0
+type II pneumocyte,None,62405
+type II pneumocyte,SMG serous (bronchial),0
+type II pneumocyte,SMG serous (nasal),0
+type II pneumocyte,pre-TB secretory,0
+brush cell of trachebronchial tree,AT0,0
+brush cell of trachebronchial tree,Alveolar Mph CCL3+,0
+brush cell of trachebronchial tree,Alveolar Mph MT-positive,0
+brush cell of trachebronchial tree,Alveolar Mph proliferating,0
+brush cell of trachebronchial tree,Club (nasal),0
+brush cell of trachebronchial tree,Club (non-nasal),0
+brush cell of trachebronchial tree,Goblet (bronchial),0
+brush cell of trachebronchial tree,Goblet (nasal),0
+brush cell of trachebronchial tree,Goblet (subsegmental),0
+brush cell of trachebronchial tree,Interstitial Mph perivascular,0
+brush cell of trachebronchial tree,Monocyte-derived Mph,0
+brush cell of trachebronchial tree,Multiciliated (nasal),0
+brush cell of trachebronchial tree,Multiciliated (non-nasal),0
+brush cell of trachebronchial tree,None,165
+brush cell of trachebronchial tree,SMG serous (bronchial),0
+brush cell of trachebronchial tree,SMG serous (nasal),0
+brush cell of trachebronchial tree,pre-TB secretory,0
+endothelial cell of lymphatic vessel,AT0,0
+endothelial cell of lymphatic vessel,Alveolar Mph CCL3+,0
+endothelial cell of lymphatic vessel,Alveolar Mph MT-positive,0
+endothelial cell of lymphatic vessel,Alveolar Mph proliferating,0
+endothelial cell of lymphatic vessel,Club (nasal),0
+endothelial cell of lymphatic vessel,Club (non-nasal),0
+endothelial cell of lymphatic vessel,Goblet (bronchial),0
+endothelial cell of lymphatic vessel,Goblet (nasal),0
+endothelial cell of lymphatic vessel,Goblet (subsegmental),0
+endothelial cell of lymphatic vessel,Interstitial Mph perivascular,0
+endothelial cell of lymphatic vessel,Monocyte-derived Mph,0
+endothelial cell of lymphatic vessel,Multiciliated (nasal),0
+endothelial cell of lymphatic vessel,Multiciliated (non-nasal),0
+endothelial cell of lymphatic vessel,None,4595
+endothelial cell of lymphatic vessel,SMG serous (bronchial),0
+endothelial cell of lymphatic vessel,SMG serous (nasal),0
+endothelial cell of lymphatic vessel,pre-TB secretory,0
+capillary endothelial cell,AT0,0
+capillary endothelial cell,Alveolar Mph CCL3+,0
+capillary endothelial cell,Alveolar Mph MT-positive,0
+capillary endothelial cell,Alveolar Mph proliferating,0
+capillary endothelial cell,Club (nasal),0
+capillary endothelial cell,Club (non-nasal),0
+capillary endothelial cell,Goblet (bronchial),0
+capillary endothelial cell,Goblet (nasal),0
+capillary endothelial cell,Goblet (subsegmental),0
+capillary endothelial cell,Interstitial Mph perivascular,0
+capillary endothelial cell,Monocyte-derived Mph,0
+capillary endothelial cell,Multiciliated (nasal),0
+capillary endothelial cell,Multiciliated (non-nasal),0
+capillary endothelial cell,None,23205
+capillary endothelial cell,SMG serous (bronchial),0
+capillary endothelial cell,SMG serous (nasal),0
+capillary endothelial cell,pre-TB secretory,0
+ciliated columnar cell of tracheobronchial tree,AT0,0
+ciliated columnar cell of tracheobronchial tree,Alveolar Mph CCL3+,0
+ciliated columnar cell of tracheobronchial tree,Alveolar Mph MT-positive,0
+ciliated columnar cell of tracheobronchial tree,Alveolar Mph proliferating,0
+ciliated columnar cell of tracheobronchial tree,Club (nasal),0
+ciliated columnar cell of tracheobronchial tree,Club (non-nasal),0
+ciliated columnar cell of tracheobronchial tree,Goblet (bronchial),0
+ciliated columnar cell of tracheobronchial tree,Goblet (nasal),0
+ciliated columnar cell of tracheobronchial tree,Goblet (subsegmental),0
+ciliated columnar cell of tracheobronchial tree,Interstitial Mph perivascular,0
+ciliated columnar cell of tracheobronchial tree,Monocyte-derived Mph,0
+ciliated columnar cell of tracheobronchial tree,Multiciliated (nasal),0
+ciliated columnar cell of tracheobronchial tree,Multiciliated (non-nasal),35225
+ciliated columnar cell of tracheobronchial tree,None,0
+ciliated columnar cell of tracheobronchial tree,SMG serous (bronchial),0
+ciliated columnar cell of tracheobronchial tree,SMG serous (nasal),0
+ciliated columnar cell of tracheobronchial tree,pre-TB secretory,0
+CD1c-positive myeloid dendritic cell,AT0,0
+CD1c-positive myeloid dendritic cell,Alveolar Mph CCL3+,0
+CD1c-positive myeloid dendritic cell,Alveolar Mph MT-positive,0
+CD1c-positive myeloid dendritic cell,Alveolar Mph proliferating,0
+CD1c-positive myeloid dendritic cell,Club (nasal),0
+CD1c-positive myeloid dendritic cell,Club (non-nasal),0
+CD1c-positive myeloid dendritic cell,Goblet (bronchial),0
+CD1c-positive myeloid dendritic cell,Goblet (nasal),0
+CD1c-positive myeloid dendritic cell,Goblet (subsegmental),0
+CD1c-positive myeloid dendritic cell,Interstitial Mph perivascular,0
+CD1c-positive myeloid dendritic cell,Monocyte-derived Mph,0
+CD1c-positive myeloid dendritic cell,Multiciliated (nasal),0
+CD1c-positive myeloid dendritic cell,Multiciliated (non-nasal),0
+CD1c-positive myeloid dendritic cell,None,9133
+CD1c-positive myeloid dendritic cell,SMG serous (bronchial),0
+CD1c-positive myeloid dendritic cell,SMG serous (nasal),0
+CD1c-positive myeloid dendritic cell,pre-TB secretory,0
+nasal mucosa goblet cell,AT0,0
+nasal mucosa goblet cell,Alveolar Mph CCL3+,0
+nasal mucosa goblet cell,Alveolar Mph MT-positive,0
+nasal mucosa goblet cell,Alveolar Mph proliferating,0
+nasal mucosa goblet cell,Club (nasal),0
+nasal mucosa goblet cell,Club (non-nasal),0
+nasal mucosa goblet cell,Goblet (bronchial),0
+nasal mucosa goblet cell,Goblet (nasal),35833
+nasal mucosa goblet cell,Goblet (subsegmental),0
+nasal mucosa goblet cell,Interstitial Mph perivascular,0
+nasal mucosa goblet cell,Monocyte-derived Mph,0
+nasal mucosa goblet cell,Multiciliated (nasal),0
+nasal mucosa goblet cell,Multiciliated (non-nasal),0
+nasal mucosa goblet cell,None,0
+nasal mucosa goblet cell,SMG serous (bronchial),0
+nasal mucosa goblet cell,SMG serous (nasal),0
+nasal mucosa goblet cell,pre-TB secretory,0
+vein endothelial cell,AT0,0
+vein endothelial cell,Alveolar Mph CCL3+,0
+vein endothelial cell,Alveolar Mph MT-positive,0
+vein endothelial cell,Alveolar Mph proliferating,0
+vein endothelial cell,Club (nasal),0
+vein endothelial cell,Club (non-nasal),0
+vein endothelial cell,Goblet (bronchial),0
+vein endothelial cell,Goblet (nasal),0
+vein endothelial cell,Goblet (subsegmental),0
+vein endothelial cell,Interstitial Mph perivascular,0
+vein endothelial cell,Monocyte-derived Mph,0
+vein endothelial cell,Multiciliated (nasal),0
+vein endothelial cell,Multiciliated (non-nasal),0
+vein endothelial cell,None,12975
+vein endothelial cell,SMG serous (bronchial),0
+vein endothelial cell,SMG serous (nasal),0
+vein endothelial cell,pre-TB secretory,0
+epithelial cell of lower respiratory tract,AT0,0
+epithelial cell of lower respiratory tract,Alveolar Mph CCL3+,0
+epithelial cell of lower respiratory tract,Alveolar Mph MT-positive,0
+epithelial cell of lower respiratory tract,Alveolar Mph proliferating,0
+epithelial cell of lower respiratory tract,Club (nasal),0
+epithelial cell of lower respiratory tract,Club (non-nasal),0
+epithelial cell of lower respiratory tract,Goblet (bronchial),0
+epithelial cell of lower respiratory tract,Goblet (nasal),0
+epithelial cell of lower respiratory tract,Goblet (subsegmental),0
+epithelial cell of lower respiratory tract,Interstitial Mph perivascular,0
+epithelial cell of lower respiratory tract,Monocyte-derived Mph,0
+epithelial cell of lower respiratory tract,Multiciliated (nasal),0
+epithelial cell of lower respiratory tract,Multiciliated (non-nasal),0
+epithelial cell of lower respiratory tract,None,0
+epithelial cell of lower respiratory tract,SMG serous (bronchial),0
+epithelial cell of lower respiratory tract,SMG serous (nasal),0
+epithelial cell of lower respiratory tract,pre-TB secretory,4393
+respiratory basal cell,AT0,0
+respiratory basal cell,Alveolar Mph CCL3+,0
+respiratory basal cell,Alveolar Mph MT-positive,0
+respiratory basal cell,Alveolar Mph proliferating,0
+respiratory basal cell,Club (nasal),0
+respiratory basal cell,Club (non-nasal),0
+respiratory basal cell,Goblet (bronchial),0
+respiratory basal cell,Goblet (nasal),0
+respiratory basal cell,Goblet (subsegmental),0
+respiratory basal cell,Interstitial Mph perivascular,0
+respiratory basal cell,Monocyte-derived Mph,0
+respiratory basal cell,Multiciliated (nasal),0
+respiratory basal cell,Multiciliated (non-nasal),0
+respiratory basal cell,None,80113
+respiratory basal cell,SMG serous (bronchial),0
+respiratory basal cell,SMG serous (nasal),0
+respiratory basal cell,pre-TB secretory,0
+ionocyte,AT0,0
+ionocyte,Alveolar Mph CCL3+,0
+ionocyte,Alveolar Mph MT-positive,0
+ionocyte,Alveolar Mph proliferating,0
+ionocyte,Club (nasal),0
+ionocyte,Club (non-nasal),0
+ionocyte,Goblet (bronchial),0
+ionocyte,Goblet (nasal),0
+ionocyte,Goblet (subsegmental),0
+ionocyte,Interstitial Mph perivascular,0
+ionocyte,Monocyte-derived Mph,0
+ionocyte,Multiciliated (nasal),0
+ionocyte,Multiciliated (non-nasal),0
+ionocyte,None,561
+ionocyte,SMG serous (bronchial),0
+ionocyte,SMG serous (nasal),0
+ionocyte,pre-TB secretory,0
+multi-ciliated epithelial cell,AT0,0
+multi-ciliated epithelial cell,Alveolar Mph CCL3+,0
+multi-ciliated epithelial cell,Alveolar Mph MT-positive,0
+multi-ciliated epithelial cell,Alveolar Mph proliferating,0
+multi-ciliated epithelial cell,Club (nasal),0
+multi-ciliated epithelial cell,Club (non-nasal),0
+multi-ciliated epithelial cell,Goblet (bronchial),0
+multi-ciliated epithelial cell,Goblet (nasal),0
+multi-ciliated epithelial cell,Goblet (subsegmental),0
+multi-ciliated epithelial cell,Interstitial Mph perivascular,0
+multi-ciliated epithelial cell,Monocyte-derived Mph,0
+multi-ciliated epithelial cell,Multiciliated (nasal),4869
+multi-ciliated epithelial cell,Multiciliated (non-nasal),0
+multi-ciliated epithelial cell,None,1004
+multi-ciliated epithelial cell,SMG serous (bronchial),0
+multi-ciliated epithelial cell,SMG serous (nasal),0
+multi-ciliated epithelial cell,pre-TB secretory,0
+lung pericyte,AT0,0
+lung pericyte,Alveolar Mph CCL3+,0
+lung pericyte,Alveolar Mph MT-positive,0
+lung pericyte,Alveolar Mph proliferating,0
+lung pericyte,Club (nasal),0
+lung pericyte,Club (non-nasal),0
+lung pericyte,Goblet (bronchial),0
+lung pericyte,Goblet (nasal),0
+lung pericyte,Goblet (subsegmental),0
+lung pericyte,Interstitial Mph perivascular,0
+lung pericyte,Monocyte-derived Mph,0
+lung pericyte,Multiciliated (nasal),0
+lung pericyte,Multiciliated (non-nasal),0
+lung pericyte,None,3032
+lung pericyte,SMG serous (bronchial),0
+lung pericyte,SMG serous (nasal),0
+lung pericyte,pre-TB secretory,0
+epithelial cell of alveolus of lung,AT0,1440
+epithelial cell of alveolus of lung,Alveolar Mph CCL3+,0
+epithelial cell of alveolus of lung,Alveolar Mph MT-positive,0
+epithelial cell of alveolus of lung,Alveolar Mph proliferating,0
+epithelial cell of alveolus of lung,Club (nasal),0
+epithelial cell of alveolus of lung,Club (non-nasal),0
+epithelial cell of alveolus of lung,Goblet (bronchial),0
+epithelial cell of alveolus of lung,Goblet (nasal),0
+epithelial cell of alveolus of lung,Goblet (subsegmental),0
+epithelial cell of alveolus of lung,Interstitial Mph perivascular,0
+epithelial cell of alveolus of lung,Monocyte-derived Mph,0
+epithelial cell of alveolus of lung,Multiciliated (nasal),0
+epithelial cell of alveolus of lung,Multiciliated (non-nasal),0
+epithelial cell of alveolus of lung,None,0
+epithelial cell of alveolus of lung,SMG serous (bronchial),0
+epithelial cell of alveolus of lung,SMG serous (nasal),0
+epithelial cell of alveolus of lung,pre-TB secretory,0
+tracheobronchial serous cell,AT0,0
+tracheobronchial serous cell,Alveolar Mph CCL3+,0
+tracheobronchial serous cell,Alveolar Mph MT-positive,0
+tracheobronchial serous cell,Alveolar Mph proliferating,0
+tracheobronchial serous cell,Club (nasal),0
+tracheobronchial serous cell,Club (non-nasal),0
+tracheobronchial serous cell,Goblet (bronchial),0
+tracheobronchial serous cell,Goblet (nasal),0
+tracheobronchial serous cell,Goblet (subsegmental),0
+tracheobronchial serous cell,Interstitial Mph perivascular,0
+tracheobronchial serous cell,Monocyte-derived Mph,0
+tracheobronchial serous cell,Multiciliated (nasal),0
+tracheobronchial serous cell,Multiciliated (non-nasal),0
+tracheobronchial serous cell,None,0
+tracheobronchial serous cell,SMG serous (bronchial),1417
+tracheobronchial serous cell,SMG serous (nasal),0
+tracheobronchial serous cell,pre-TB secretory,0
+tracheobronchial goblet cell,AT0,0
+tracheobronchial goblet cell,Alveolar Mph CCL3+,0
+tracheobronchial goblet cell,Alveolar Mph MT-positive,0
+tracheobronchial goblet cell,Alveolar Mph proliferating,0
+tracheobronchial goblet cell,Club (nasal),0
+tracheobronchial goblet cell,Club (non-nasal),0
+tracheobronchial goblet cell,Goblet (bronchial),0
+tracheobronchial goblet cell,Goblet (nasal),0
+tracheobronchial goblet cell,Goblet (subsegmental),968
+tracheobronchial goblet cell,Interstitial Mph perivascular,0
+tracheobronchial goblet cell,Monocyte-derived Mph,0
+tracheobronchial goblet cell,Multiciliated (nasal),0
+tracheobronchial goblet cell,Multiciliated (non-nasal),0
+tracheobronchial goblet cell,None,0
+tracheobronchial goblet cell,SMG serous (bronchial),0
+tracheobronchial goblet cell,SMG serous (nasal),0
+tracheobronchial goblet cell,pre-TB secretory,0
+tracheobronchial smooth muscle cell,AT0,0
+tracheobronchial smooth muscle cell,Alveolar Mph CCL3+,0
+tracheobronchial smooth muscle cell,Alveolar Mph MT-positive,0
+tracheobronchial smooth muscle cell,Alveolar Mph proliferating,0
+tracheobronchial smooth muscle cell,Club (nasal),0
+tracheobronchial smooth muscle cell,Club (non-nasal),0
+tracheobronchial smooth muscle cell,Goblet (bronchial),0
+tracheobronchial smooth muscle cell,Goblet (nasal),0
+tracheobronchial smooth muscle cell,Goblet (subsegmental),0
+tracheobronchial smooth muscle cell,Interstitial Mph perivascular,0
+tracheobronchial smooth muscle cell,Monocyte-derived Mph,0
+tracheobronchial smooth muscle cell,Multiciliated (nasal),0
+tracheobronchial smooth muscle cell,Multiciliated (non-nasal),0
+tracheobronchial smooth muscle cell,None,2996
+tracheobronchial smooth muscle cell,SMG serous (bronchial),0
+tracheobronchial smooth muscle cell,SMG serous (nasal),0
+tracheobronchial smooth muscle cell,pre-TB secretory,0
+lung neuroendocrine cell,AT0,0
+lung neuroendocrine cell,Alveolar Mph CCL3+,0
+lung neuroendocrine cell,Alveolar Mph MT-positive,0
+lung neuroendocrine cell,Alveolar Mph proliferating,0
+lung neuroendocrine cell,Club (nasal),0
+lung neuroendocrine cell,Club (non-nasal),0
+lung neuroendocrine cell,Goblet (bronchial),0
+lung neuroendocrine cell,Goblet (nasal),0
+lung neuroendocrine cell,Goblet (subsegmental),0
+lung neuroendocrine cell,Interstitial Mph perivascular,0
+lung neuroendocrine cell,Monocyte-derived Mph,0
+lung neuroendocrine cell,Multiciliated (nasal),0
+lung neuroendocrine cell,Multiciliated (non-nasal),0
+lung neuroendocrine cell,None,159
+lung neuroendocrine cell,SMG serous (bronchial),0
+lung neuroendocrine cell,SMG serous (nasal),0
+lung neuroendocrine cell,pre-TB secretory,0
+bronchial goblet cell,AT0,0
+bronchial goblet cell,Alveolar Mph CCL3+,0
+bronchial goblet cell,Alveolar Mph MT-positive,0
+bronchial goblet cell,Alveolar Mph proliferating,0
+bronchial goblet cell,Club (nasal),0
+bronchial goblet cell,Club (non-nasal),0
+bronchial goblet cell,Goblet (bronchial),1670
+bronchial goblet cell,Goblet (nasal),0
+bronchial goblet cell,Goblet (subsegmental),0
+bronchial goblet cell,Interstitial Mph perivascular,0
+bronchial goblet cell,Monocyte-derived Mph,0
+bronchial goblet cell,Multiciliated (nasal),0
+bronchial goblet cell,Multiciliated (non-nasal),0
+bronchial goblet cell,None,0
+bronchial goblet cell,SMG serous (bronchial),0
+bronchial goblet cell,SMG serous (nasal),0
+bronchial goblet cell,pre-TB secretory,0
+pulmonary artery endothelial cell,AT0,0
+pulmonary artery endothelial cell,Alveolar Mph CCL3+,0
+pulmonary artery endothelial cell,Alveolar Mph MT-positive,0
+pulmonary artery endothelial cell,Alveolar Mph proliferating,0
+pulmonary artery endothelial cell,Club (nasal),0
+pulmonary artery endothelial cell,Club (non-nasal),0
+pulmonary artery endothelial cell,Goblet (bronchial),0
+pulmonary artery endothelial cell,Goblet (nasal),0
+pulmonary artery endothelial cell,Goblet (subsegmental),0
+pulmonary artery endothelial cell,Interstitial Mph perivascular,0
+pulmonary artery endothelial cell,Monocyte-derived Mph,0
+pulmonary artery endothelial cell,Multiciliated (nasal),0
+pulmonary artery endothelial cell,Multiciliated (non-nasal),0
+pulmonary artery endothelial cell,None,7391
+pulmonary artery endothelial cell,SMG serous (bronchial),0
+pulmonary artery endothelial cell,SMG serous (nasal),0
+pulmonary artery endothelial cell,pre-TB secretory,0
+lung macrophage,AT0,0
+lung macrophage,Alveolar Mph CCL3+,0
+lung macrophage,Alveolar Mph MT-positive,0
+lung macrophage,Alveolar Mph proliferating,0
+lung macrophage,Club (nasal),0
+lung macrophage,Club (non-nasal),0
+lung macrophage,Goblet (bronchial),0
+lung macrophage,Goblet (nasal),0
+lung macrophage,Goblet (subsegmental),0
+lung macrophage,Interstitial Mph perivascular,4805
+lung macrophage,Monocyte-derived Mph,0
+lung macrophage,Multiciliated (nasal),0
+lung macrophage,Multiciliated (non-nasal),0
+lung macrophage,None,0
+lung macrophage,SMG serous (bronchial),0
+lung macrophage,SMG serous (nasal),0
+lung macrophage,pre-TB secretory,0
+bronchus fibroblast of lung,AT0,0
+bronchus fibroblast of lung,Alveolar Mph CCL3+,0
+bronchus fibroblast of lung,Alveolar Mph MT-positive,0
+bronchus fibroblast of lung,Alveolar Mph proliferating,0
+bronchus fibroblast of lung,Club (nasal),0
+bronchus fibroblast of lung,Club (non-nasal),0
+bronchus fibroblast of lung,Goblet (bronchial),0
+bronchus fibroblast of lung,Goblet (nasal),0
+bronchus fibroblast of lung,Goblet (subsegmental),0
+bronchus fibroblast of lung,Interstitial Mph perivascular,0
+bronchus fibroblast of lung,Monocyte-derived Mph,0
+bronchus fibroblast of lung,Multiciliated (nasal),0
+bronchus fibroblast of lung,Multiciliated (non-nasal),0
+bronchus fibroblast of lung,None,1573
+bronchus fibroblast of lung,SMG serous (bronchial),0
+bronchus fibroblast of lung,SMG serous (nasal),0
+bronchus fibroblast of lung,pre-TB secretory,0
+alveolar type 1 fibroblast cell,AT0,0
+alveolar type 1 fibroblast cell,Alveolar Mph CCL3+,0
+alveolar type 1 fibroblast cell,Alveolar Mph MT-positive,0
+alveolar type 1 fibroblast cell,Alveolar Mph proliferating,0
+alveolar type 1 fibroblast cell,Club (nasal),0
+alveolar type 1 fibroblast cell,Club (non-nasal),0
+alveolar type 1 fibroblast cell,Goblet (bronchial),0
+alveolar type 1 fibroblast cell,Goblet (nasal),0
+alveolar type 1 fibroblast cell,Goblet (subsegmental),0
+alveolar type 1 fibroblast cell,Interstitial Mph perivascular,0
+alveolar type 1 fibroblast cell,Monocyte-derived Mph,0
+alveolar type 1 fibroblast cell,Multiciliated (nasal),0
+alveolar type 1 fibroblast cell,Multiciliated (non-nasal),0
+alveolar type 1 fibroblast cell,None,5182
+alveolar type 1 fibroblast cell,SMG serous (bronchial),0
+alveolar type 1 fibroblast cell,SMG serous (nasal),0
+alveolar type 1 fibroblast cell,pre-TB secretory,0
+alveolar type 2 fibroblast cell,AT0,0
+alveolar type 2 fibroblast cell,Alveolar Mph CCL3+,0
+alveolar type 2 fibroblast cell,Alveolar Mph MT-positive,0
+alveolar type 2 fibroblast cell,Alveolar Mph proliferating,0
+alveolar type 2 fibroblast cell,Club (nasal),0
+alveolar type 2 fibroblast cell,Club (non-nasal),0
+alveolar type 2 fibroblast cell,Goblet (bronchial),0
+alveolar type 2 fibroblast cell,Goblet (nasal),0
+alveolar type 2 fibroblast cell,Goblet (subsegmental),0
+alveolar type 2 fibroblast cell,Interstitial Mph perivascular,0
+alveolar type 2 fibroblast cell,Monocyte-derived Mph,0
+alveolar type 2 fibroblast cell,Multiciliated (nasal),0
+alveolar type 2 fibroblast cell,Multiciliated (non-nasal),0
+alveolar type 2 fibroblast cell,None,10321
+alveolar type 2 fibroblast cell,SMG serous (bronchial),0
+alveolar type 2 fibroblast cell,SMG serous (nasal),0
+alveolar type 2 fibroblast cell,pre-TB secretory,0
+respiratory hillock cell,AT0,0
+respiratory hillock cell,Alveolar Mph CCL3+,0
+respiratory hillock cell,Alveolar Mph MT-positive,0
+respiratory hillock cell,Alveolar Mph proliferating,0
+respiratory hillock cell,Club (nasal),0
+respiratory hillock cell,Club (non-nasal),0
+respiratory hillock cell,Goblet (bronchial),0
+respiratory hillock cell,Goblet (nasal),0
+respiratory hillock cell,Goblet (subsegmental),0
+respiratory hillock cell,Interstitial Mph perivascular,0
+respiratory hillock cell,Monocyte-derived Mph,0
+respiratory hillock cell,Multiciliated (nasal),0
+respiratory hillock cell,Multiciliated (non-nasal),0
+respiratory hillock cell,None,4600
+respiratory hillock cell,SMG serous (bronchial),0
+respiratory hillock cell,SMG serous (nasal),0
+respiratory hillock cell,pre-TB secretory,0
